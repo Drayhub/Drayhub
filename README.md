@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Drayhub_
+- 👋 Hi, I’m @Drayhub
 - 👀 I’m interested in Software development
-- 🌱 I’m currently learning Python, javascrpit
-- 💞️ I’m looking to collaborate on "can't say for now"
+- 🌱 I’m currently learning Python-flask and it's frameworks
+- 💞️ I’m looking to collaborate on more python related projects
 - 📫 How to reach me olawayedamilare17@gmail.com
 
 <!---
